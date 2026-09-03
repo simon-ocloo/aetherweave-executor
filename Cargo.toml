@@ -1,0 +1,3 @@
+[workspace]
+members = ["tools/aw-execute"]
+resolver = "2"
